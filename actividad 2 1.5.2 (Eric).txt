@@ -1,0 +1,6 @@
+- se define las tres variables, indicando cada lado de la figura
+- el programa define que lados son catetos y cual es la hipotenusa
+- el programa calcula el area de el triangulo rectangulo
+- en caso de que el area no corresponda a el de un triangulo rectangulo, el programa da un mensaje indicando aquello.
+
+el objetivo del programa es identificar si los datos ingresados son de un triangulo rectangulo, para posteriormente calcular el area, basado en la informacion de cada lado que da el usuario.
